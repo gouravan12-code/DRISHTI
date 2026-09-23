@@ -1,0 +1,9 @@
+{
+  "name": "DRISHTI - Real-Time Monitoring & Inspection Platform",
+  "description": "AI-Powered Real-Time Monitoring & Inspection Platform for Government-Funded NGOs, Institutions, Schemes, and Projects (Smart India Hackathon 2026). Observe. Verify. Act.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
